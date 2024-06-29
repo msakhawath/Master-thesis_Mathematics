@@ -1,2 +1,1 @@
-# Master-thesis_Mathematics
-My master thesis work
+You can find my master's thesis paper on Face Recognition: A Comparative Study of Deep Models.
